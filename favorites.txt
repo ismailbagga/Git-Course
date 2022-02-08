@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 loubya
 mar9a
 bisarahhh
+=======
+django
+start wars
+mission impossible
+>>>>>>> movies
